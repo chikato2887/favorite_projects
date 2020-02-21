@@ -2,6 +2,7 @@
 
 ## [React prayer](https://github.com/CookPete/react-player)
 音楽や動画、urlから音源を取得して流すプレーヤ。
+![image](https://madewithnetwork.ams3.cdn.digitaloceanspaces.com//spatie-space-production/3413/reactplayer.jpg)
 
 [参照元](https://madewithreactjs.com/reactplayer)
 
